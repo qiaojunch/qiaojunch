@@ -8,6 +8,8 @@ I'm Qiaojun(Jun) Chen from California, and I study Computer Science in Northeast
 
 ### Project Samples
 
+- I'm working on web development projects now!
+- ...
 - 🔭 I’m currently working on this page. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaojunch&theme=aura&show_icons=true)
