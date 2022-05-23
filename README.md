@@ -10,5 +10,5 @@ I'm Qiaojun(Jun) Chen from California, and I study Computer Science in Northeast
 
 - 🔭 I’m currently working on this page. 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junqc&theme=aura&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qiaojunch&theme=aura&show_icons=true)
 
